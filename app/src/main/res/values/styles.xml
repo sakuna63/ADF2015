@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+    
+    <style name="SelfIntroFont" parent="android:Widget.TextView">
+        <item name="android:textSize">54sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
